@@ -1,4 +1,5 @@
-# Learning Goals
+# Week 2: Intro to Objects
+## Learning Goals
 3.1 Objects and classes (instantiate/instantiation)  
 3.2 Instance variable vs Local variable  
 3.3 Constructor/Initializer  

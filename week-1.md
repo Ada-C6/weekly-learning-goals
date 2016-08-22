@@ -1,4 +1,5 @@
-# Learning Goals
+# Week 1: Ruby Fundamentals
+## Learning Goals
 1.1 Comfort with OSX and Text Editor  
 1.2 UNIX commands  
 1.3 Running Ruby in the terminal  
