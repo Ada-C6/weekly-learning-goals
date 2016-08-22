@@ -1,4 +1,4 @@
-# Cohort 6 Weekly Learning
+# Cohort 6 Weekly Learning Goals
 This repository contains Cohort 6 weekly schedule and learning goals.
 
 Each week link in the calendar links to the learning goals and assessment mapping for that week.
