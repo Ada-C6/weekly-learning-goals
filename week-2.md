@@ -8,6 +8,7 @@
 3.6 Introductory Git  
 3.7 Gems  
 3.8 Pair Programming  
+3.9 Literals   
 
 
 # Questions & Learning Goals
