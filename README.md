@@ -11,7 +11,7 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Aug 8   | [Week 01](week-1.md)  | Student Orientation, Bash, Ruby, Intallfest!
 | Aug 15  | [Week 02](week-2.md)  | Intro to OO, Gems, Pair Programming
 | Aug 22  | [Week 03](week-3.md)  | Intermediate Ruby: More OO, CSV, Inheritance
-| Aug 29  | [Week 04](#week-4)  | Intermediate Ruby: Enumerable, TDD, minitest
+| Aug 29  | [Week 04](week-4.md)  | Intermediate Ruby: Enumerable, TDD, minitest
 | Sep 5   | [Week 05](#week-5)  | Intro Sinatra, HTML, CSS
 | Sep 12  | [Week 06](#week-6)  | Sinatra & SQL
 | Sep 19  |                     | _BREAK_
