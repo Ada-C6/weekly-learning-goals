@@ -12,7 +12,7 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Aug 15  | [Week 02](week-2.md)  | Intro to OO, Gems, Pair Programming
 | Aug 22  | [Week 03](week-3.md)  | Intermediate Ruby: More OO, CSV, Inheritance
 | Aug 29  | [Week 04](week-4.md)  | Intermediate Ruby: Enumerable, TDD, minitest
-| Sep 5   | [Week 05](week-5.md  | Ruby Reinforcement
+| Sep 5   | [Week 05](week-5.md)  | Ruby Reinforcement
 | Sep 12  | [Week 06](week-6.md)  | HTML & CSS
 | Sep 19  |                     | _BREAK_
 | Sep 26  | [Week 07](#week-7)  | Intro to Rails
