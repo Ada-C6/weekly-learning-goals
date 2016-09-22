@@ -7,6 +7,7 @@
 9.5 Guide users to provide better data input   
 9.6 Learn how to test Rails applications using Minitest and rake  
 9.7 Build tests for Active Record models  
+9.8 Explain the role of a "User Story" in software development and implement the practice.  
 
 
 # Questions & Learning Goals
