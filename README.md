@@ -21,7 +21,7 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Oct 17  | [Week 11](week-11.md) | Controller filters, advanced validations, AR callbacks
 | Oct 24  | [Week 12](week-12.md) | Individual Project - No new topics
 | Oct 31  | [Week 13](week-13.md) | Rails Using APIs
-| Nov 7   | [Week 13](#week-13) | Rails Creating & Using APIs
+| Nov 7   | [Week 14](week-14.md) | Rails Creating & Using APIs
 | Nov 14  | [Week 14](#week-14) | Intro to JavaScript
 | Nov 21  | [Week 15](#week-15) | Node Express
 | Nov 28  | [Week 16](#week-16) | Node Express 2
