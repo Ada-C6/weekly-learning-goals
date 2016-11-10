@@ -22,12 +22,12 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Oct 24  | [Week 12](week-12.md) | Individual Project - No new topics
 | Oct 31  | [Week 13](week-13.md) | Rails Using APIs
 | Nov 7   | [Week 14](week-14.md) | Rails Creating & Using APIs
-| Nov 14  | [Week 14](#week-14) | Intro to JavaScript
-| Nov 21  | [Week 15](#week-15) | Node Express
-| Nov 28  | [Week 16](#week-16) | Node Express 2
+| Nov 14  | [Week 14](week-14.md) | Intro to JavaScript
+| Nov 21  | [Week 15](week-15.md) |  JQuery & AJAX
+| Nov 28  | [Week 16](#week-16) | Intro to Backbonejs
 | Dec 5   | [Week 17](#week-17) | Interviews
-| Dec 12  | [Week 18](#week-18) | Front-end JavaScript
-| Dec 19  | [Week 19](#week-19) | Front-end JavaScript with a Framework
+| Dec 12  | [Week 18](#week-18) | Backbonejs Frontend JavaScript
+| Dec 19  | [Week 19](#week-19) | Backbonejs with an API
 | Dec 26  |                     | _BREAK_
 | Jan 2   | [Week 20](#week-20) | Capstone Project
 | Jan 9   | [Week 21](#week-21) | Capstone Project
