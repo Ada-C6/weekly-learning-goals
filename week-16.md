@@ -6,5 +6,5 @@
 - Understand hoisting and why it matters in JavaScript
 - Request data from a sever to render client-side using JavaScript
 - Render data from server without reloading a page
-- Use Jquery to make AJAX requests
+- Use jQuery to make AJAX requests
 - Use GET and POST methods with AJAX
