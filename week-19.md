@@ -2,3 +2,4 @@
 - Testing JavaScript with Jasmine
 - Reinforce Backbone Fundamentals
 - Plan an Application's Architectural Design
+- Build the Structure of a Backbone Application
