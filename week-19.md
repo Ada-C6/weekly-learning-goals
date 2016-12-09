@@ -1,4 +1,4 @@
-# Week 19: Continue with Backbone
-- Integrating Backbone with a server API
-- More practice with Backbone for interactive front-end components
+# Week 19: JavaScript Testing, JavaScript and Backbone Reinforcement
 - Testing JavaScript with Jasmine
+- Reinforce Backbone Fundamentals
+- Plan an Application's Architectural Design
