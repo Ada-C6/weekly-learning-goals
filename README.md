@@ -26,8 +26,8 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Nov 21  | [Week 16](week-16.md) | jQuery, AJAX
 | Nov 28  | [Week 17](week-17.md) | Intro to Backbone
 | Dec 5   | Week 18 | Interviews
-| Dec 12  | [Week 18](week-19.md) | Backbone using APIs
-| Dec 19  | [Week 20](week-20.md) | Full-Stack Backbone
+| Dec 12  | [Week 19](week-19.md) | JavaScript Testing, JavaScript and Backbone Reinforcement
+| Dec 19  | [Week 20](week-20.md) | Full-Stack Backbone, Backbone using APIs
 | Dec 26  |                     | _BREAK_
 | Jan 2   | Week 20 | Capstone Project
 | Jan 9   | Week 21 | Capstone Project
