@@ -8,7 +8,7 @@ Each week link in the calendar links to the learning goals and assessment mappin
 
 | Date    | Week    | Unit             | Topics
 |---------|---------|------------------|----------------------------------------
-| Feb 6   | Week 01 | Introduction     | Student Orientation, Bash, Intro to Ruby
+| Feb 6   | [Week 01](week-1.md) | Introduction     | Student Orientation, Bash, Intro to Ruby
 | Feb 13  | Week 02 | Ruby             | Intro to OO, Gems, Pair Programming
 | Feb 20  | Week 03 | Ruby             | More OO, Files, Inheritance
 | Feb 28  | Week 04 | Ruby             | Enumerables, TDD, Minitest
