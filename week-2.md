@@ -3,7 +3,7 @@
 3.1 Objects and classes (instantiate/instantiation)  
 3.2 Instance variable vs Local variable  
 3.3 Constructor/Initializer  
-3.4 Instance Methods in Classes
+3.4 Instance Methods in Classes  
 3.5 Hashes as method parameters  
 3.6 Introductory Git  
 3.7 Gems  
