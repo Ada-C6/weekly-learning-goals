@@ -5,14 +5,14 @@
 1. [Services](#services)
   1. [Open Tutoring](#open-tutoring)
   1. [Ad-hoc Tutoring](#ad-hoc-tutoring)
-  1. [Secheduled Tutoring](#scheduled-tutoring)
+  1. [Scheduled Tutoring](#scheduled-tutoring)
 1. [FAQ](#faq)
   1. [Which tutoring service should I use?](#which-tutoring-service-should-i-use)
 
 ## Overview
 Ada Developers Academy is committed to ensuring that all of our students receive the support they need to succeed with our curriculum and go on to become professional software developers.
 
-To that end we offer a number avenues for accessing tutoring services outside of class hours. This document explains the different tutoring services offered including when and where they are available and has a FAQ for guiding you through the process of selecting an appropriate tutoring service.
+To that end we offer a number of avenues for accessing tutoring services outside of class hours. This document explains the different tutoring services offered including when and where they are available and has a FAQ for guiding you through the process of selecting an appropriate tutoring service.
 
 ## Services
 ### Open Tutoring
@@ -33,7 +33,7 @@ The current schedule for Open Tutoring is:
 ### Ad-hoc Tutoring
 Ad-hoc Tutoring is an ideal option when you feel that more dedicated 1-on-1 instruction is necessary, or you're unable to attend the Open Tutoring hours.
 
-Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through our mailing list (the `ada-tutors` Google group). The mailing list has many volunteers from the tech industry in Seattle, including a number of Adies from previous cohorts.
+Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through our mailing list (the `ada-tutors` Google group). The mailing list has many volunteers from the tech industry in Seattle including a number of Adies from previous cohorts.
 
 When you post a message to the mailing list please include the following information to help our tutors figure out if they would be a good fit for working with you:
 - Where you are at in the curriculum, including what project you're working on if your tutoring request relates to a specific project
