@@ -18,7 +18,7 @@ To that end we offer a number of avenues for accessing tutoring services outside
 ### Open Tutoring
 Open Tutoring is our most available tutoring service and should likely be your first choice if you feel tutoring is necessary.
 
-Open Tutoring consists of a fixed set of hours during which experienced software developers are available at the Ada campus to answer questions and assist with debugging for any students present at that time.
+Open Tutoring consists of a fixed set of hours during which experienced software developers are available at the Ada campus to answer targetted questions and assist with debugging for any students present at that time.
 
 Due to the nature of Open Tutoring there aren't always enough Tutors for each student to receive one-on-one dedicated time through the entire session, however our Tutors attempt to make sure they work with every student at least once.
 
@@ -31,7 +31,7 @@ The current schedule for Open Tutoring is:
 (Last updated 2/23/2016 - Check your class Google calendar for temporary schedule changes.)
 
 ### Ad-hoc Tutoring
-Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours.
+Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours. Because you're working individually with your tutor it's also possible to go beyond assistance with a particular project hurlde and get more in-depth on programming concepts.
 
 Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through the [ada-tutors mailing list](mailto:ada-tutors@googlegroups.com). The mailing list has many volunteers from the tech industry in Seattle including a number of Adies from previous cohorts.
 
