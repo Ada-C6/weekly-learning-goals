@@ -20,7 +20,7 @@ Open Tutoring is our most available tutoring service and should likely be your f
 
 Open Tutoring consists of a fixed set of hours during which experienced software developers are available at the Ada campus to answer questions and assist with debugging for any students present at that time.
 
-Due to the nature of Open Tutoring there aren't always enough Tutors for each student to receive 1-on-1 dedicated time through the entire session, however our Tutors attempt to make sure they work with every student at least once.
+Due to the nature of Open Tutoring there aren't always enough Tutors for each student to receive one-on-one dedicated time through the entire session, however our Tutors attempt to make sure they work with every student at least once.
 
 The current schedule for Open Tutoring is:
 
@@ -31,7 +31,7 @@ The current schedule for Open Tutoring is:
 (Last updated 2/23/2016 - Check your class Google calendar for temporary schedule changes.)
 
 ### Ad-hoc Tutoring
-Ad-hoc Tutoring is an ideal option when you feel that more dedicated 1-on-1 instruction is necessary, or you're unable to attend the Open Tutoring hours.
+Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours.
 
 Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through the [ada-tutors mailing list](mailto:ada-tutors@googlegroups.com). The mailing list has many volunteers from the tech industry in Seattle including a number of Adies from previous cohorts.
 
@@ -44,7 +44,7 @@ When you send an email to the mailing list please include the following informat
 Once you've sent an email to the mailing list an Ada staff member will follow up with you within a few days to make sure that you were able to find assistance or help to make other arrangements.
 
 ### Scheduled Tutoring
-Scheduled Tutoring is limited in availability and reserved for students who instructors identify as most likely to benefit from additional 1-on-1 time to solidify concepts.
+Scheduled Tutoring is limited in availability and reserved for students who instructors identify as most likely to benefit from additional one-on-one time to solidify concepts.
 
 Because our resources for this service are more limited, Scheduled Tutoring must be arranged with the approval of Ada staff. If you feel that the above situation applies to you, please reach out to your instructor to discuss the possibility of setting up Scheduled Tutoring.
 
