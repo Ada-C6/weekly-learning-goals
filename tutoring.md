@@ -8,6 +8,7 @@
   1. [Scheduled Tutoring](#scheduled-tutoring)
 1. [FAQ](#faq)
   1. [Which tutoring service should I use?](#which-tutoring-service-should-i-use)
+  1. [How can I best prepare for tutoring?](#how-can-i-best-prepare-for-tutoring)
 
 ## Overview
 Ada Developers Academy is committed to ensuring that all of our students receive the support they need to succeed with our curriculum and go on to become professional software developers.
@@ -55,3 +56,19 @@ Scheduled Tutoring involves agreed-upon Areas of Focus and associated goals whic
 Because of the differing availability of tutoring services we strongly advise that all students interested in tutoring first attend Open Tutoring or, if that is not possible, request dedicated Ad-hoc Tutoring through the mailing list.
 
 If both of those options are not available or are unsuccessful we suggest that you speak with one of your instructors and a more individual tutoring plan can be devised.
+
+### How can I best prepare for tutoring?
+#### Open Tutoring
+For Open Tutoring the best way to be prepared is to have a specific problem in mind when approaching a tutor. Try to figure out as much as possible about the error message or buggy behavior you're seeing, first.
+
+Have a list of things that you've searched for on Google / Stack Overflow, including things that you've tried which didn't seem to work. Having all of this information handy when you work with a tutor will make it easier for you to give them the necessary to context to help you figure out how to proceed.
+
+#### Ad-hoc Tutoring
+For Ad-hoc Tutoring you should have a couple of questions in mind, either problems you're having with a particular project or general questions about a technology or concept where you've repeatedly had issues (e.g. "How does routing work in Ruby on Rails?").
+
+Make sure to include some context about these questions when contacting the mailing list, however you do not need to go into the complete details within your email. When arriving for the meeting that you've scheduled be sure to have your project code available and, if possible, be able to run it to display any error messages / bugs.
+
+#### Scheduled Tutoring
+Because Scheduled Tutoring involves a pre-defined set of focus areas and goals you should prepare for each session by reviewing them. If any class work or projects since your last session apply to the focus areas, plan to talk about any difficulties or successes you've had with that work.
+
+In most cases your tutor will not be an Ada staff member so it would be helpful to make sure they have context for where you are at in the curriculum. You should reach out to them via email before each session and send them links to the repository for your current project and to your (or your group's) specific fork. If they've had time to review what you've been working on since the last session it will make your tutoring time more productive.
