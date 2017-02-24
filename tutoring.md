@@ -44,9 +44,9 @@ When you send an email to the mailing list please include the following informat
 Once you've sent an email to the mailing list an Ada staff member will follow up with you within a few days to make sure that you were able to find assistance or help to make other arrangements.
 
 ### Scheduled Tutoring
-Scheduled Tutoring is generally reserved for students who have need of recurrent, dedicated instruction outside of class such as when significant instruction material has been missed due to absences.
+Scheduled Tutoring is limited in availability and reserved for students who instructors identify as most likely to benefit from additional 1-on-1 time to solidify concepts.
 
-Because our resources for this service are more limited than the other services, Scheduled Tutoring must be arranged with the approval of Ada staff. If you feel that the above situation applies to you, please reach out to your instructor to discuss the possibility of setting up Scheduled Tutoring.
+Because our resources for this service are more limited, Scheduled Tutoring must be arranged with the approval of Ada staff. If you feel that the above situation applies to you, please reach out to your instructor to discuss the possibility of setting up Scheduled Tutoring.
 
 Scheduled Tutoring involves agreed-upon Areas of Focus and associated goals which will be evaluated at the completion of the tutoring schedule to determine if it was successful or if additional tutoring may be needed. Tutoring schedules are generally for 2-3 weeks with 1 or 2 sessions per week, as determined by Ada staff.
 
