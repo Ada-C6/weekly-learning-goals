@@ -35,13 +35,13 @@ Ad-hoc Tutoring is an ideal option when you feel that more dedicated 1-on-1 inst
 
 Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through the [ada-tutors mailing list](mailto:ada-tutors@googlegroups.com). The mailing list has many volunteers from the tech industry in Seattle including a number of Adies from previous cohorts.
 
-When you post a message to the mailing list please include the following information to help our tutors figure out if they would be a good fit for working with you:
+When you send an email to the mailing list please include the following information to help our tutors figure out if they would be a good fit for working with you:
 - Where you are at in the curriculum, including what project you're working on if your tutoring request relates to a specific project
 - What particular technologies you're working with (Ruby, Rails, JavaScript, Backbone, etc.)
 - What times would work best for you
 - Something about yourself and/or your preferred learning and communication styles
 
-Once you've posted a message to the mailing list an Ada staff member will follow up with you within a few days to make sure that you were able to find assistance or help to make other arrangements.
+Once you've sent an email to the mailing list an Ada staff member will follow up with you within a few days to make sure that you were able to find assistance or help to make other arrangements.
 
 ### Scheduled Tutoring
 Scheduled Tutoring is generally reserved for students who have need of recurrent, dedicated instruction outside of class such as when significant instruction material has been missed due to absences.
