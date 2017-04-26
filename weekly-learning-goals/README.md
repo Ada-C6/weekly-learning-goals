@@ -20,7 +20,7 @@ Each week link in the calendar links to the learning goals and assessment mappin
 | Apr 10  | Week 10 | Ruby on Rails    | Unit Testing, Foundation
 | Apr 17  | Week 11 | Ruby on Rails    | OAuth, Controller Filters, Advanced ActiveRecord
 | Apr 24  | Week 12 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
-| May 1   | Week 13 | Web APIs         | Consuming APIs
+| May 1   | [Week 13](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/weekly-learning-goals/week-13.md) | Web APIs         | Consuming APIs
 | May 8   | Week 14 | Web APIs         | Producing APIs
 | May 15  | Week 15 | JavaScript       | Intro to JavaScript, the DOM, jQuery, Advanced Developer Tools
 | May 22  | Week 16 | JavaScript       | jQuery, AJAX, Underscore
