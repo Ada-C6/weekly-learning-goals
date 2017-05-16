@@ -8,3 +8,4 @@
 - Render data from server without reloading a page
 - Use jQuery to make AJAX requests
 - Use GET and POST methods with AJAX
+- Use Underscore templates to generate HTML from JavaScript
