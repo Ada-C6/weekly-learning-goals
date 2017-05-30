@@ -17,3 +17,20 @@
 - Respond to events emitted by collections
 - Explain how the Backbone Event API works
 - Add custom events to Backbone Views, Collections & Models
+- Explain the differences between a library, and a framework.
+
+## Learning goals to the Assessment
+
+|  Question 	|  Learning Goal 	|
+|---	|---	|
+|  1 	|  17.7 	|
+|  2 	|  17.2 	|
+|  3 	|  17.14 	|
+|  4 	|  17.3 	|
+|  5 	|  17.5 	|
+|  6 	|  17.3 	|
+|  7 	|  17.7 	|
+|  8 	|  17.18 	|
+|  9 	|  17.19 	|
+|  10 |  17.19 	|
+|  11	|  17.19 	|
