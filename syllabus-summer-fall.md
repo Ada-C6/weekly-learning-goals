@@ -1,4 +1,4 @@
-# Ada Developers Academy Cohort 7 Syllabus
+# Ada Developers Academy Summer/Fall Cohort Syllabus
 
 ## Overview
 
