@@ -1,4 +1,4 @@
-# Ada Developers Academy Cohort 7 Syllabus
+# Ada Developers Academy Cohort Syllabus
 
 ## Overview
 
@@ -32,7 +32,7 @@ Students should be able to:
 
 ### HTML & CSS
 
-HTML and CSS are two of the core technologies on which the web is built, allowing web developers to structure content in a hierarchy and specify how it should be presented to the user. Both are foundational for web develoeprs.
+HTML and CSS are two of the core technologies on which the web is built, allowing web developers to structure content in a hierarchy and specify how it should be presented to the user. Both are foundational for web developers.
 
 Students should be able to:
 
@@ -94,33 +94,34 @@ Students should be able to:
 * Utilize agile practices to assist in project completion
 
 ## Week-by-Week
+We run our cohorts twice a year starting in February and August. Below is our generic week-by-week schedule. To see each cohort broken down week-by-week with their dates, see the [Summer/Fall Schedule](syllabus-summer-fall.md) and the [Winter/Spring Schedule](syllabus-winter-spring.md).
 
-| Date    | Week    | Unit             | Topics
-|---------|---------|------------------|----------------------------------------
-| Feb 6   | Week 01 | Introduction     | Student Orientation, Bash, Intro to Ruby
-| Feb 13  | Week 02 | Ruby             | Intro to OO, Gems, Pair Programming
-| Feb 20  | Week 03 | Ruby             | More OO, Files, Inheritance
-| Feb 28  | Week 04 | Ruby             | Enumerables, TDD, Minitest
-| Mar 6   | Week 05 | Ruby             | Large Projects, Git
-| Mar 13  | Week 06 | HTML & CSS       | Web Design, Semantic HTML, CSS Layouts, Developer Tools
-| Mar 20  | Week 07 | Ruby on Rails    | HTTP & REST, MVC, Rails Components
-| Mar 27  | Week 08 | _BREAK_          | &nbsp;
-| Apr 3   | Week 09 | Ruby on Rails    | Model Associations
-| Apr 10  | Week 10 | Ruby on Rails    | Unit Testing, Foundation
-| Apr 17  | Week 11 | Ruby on Rails    | OAuth, Controller Filters, Advanced ActiveRecord
-| Apr 24  | Week 12 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
-| May 1   | Week 13 | Web APIs         | Consuming APIs
-| May 8   | Week 14 | Web APIs         | Producing APIs
-| May 15  | Week 15 | JavaScript       | Intro to JavaScript, the DOM, jQuery, Advanced Developer Tools
-| May 22  | Week 16 | JavaScript       | jQuery, AJAX, Underscore
-| May 29  | Week 17 | JavaScript       | Intro to Backbone
-| Jun 5   | Week 18 | _INTERVIEWS_     | &nbsp;
-| Jun 12  | Week 19 | JavaScript       | TDD in JavaScript
-| Jun 19  | Week 20 | JavaScript       | Consuming APIs
-| Jun 26  | Week 21 | _BREAK_          | &nbsp;
-| Jul 3   | Week 22 | Capstone Project | &nbsp;
-| Jul 10  | Week 23 | Capstone Project | &nbsp;
-| Jul 17  | Week 24 | Capstone Project | &nbsp;
-| Jul 24  | Week 25 | Capstone Project | Presentations
-| Jul 31  | Week 26 | _BREAK_          | &nbsp;
-| Aug 7   | Week 27 | __INTERNSHIP BEGINS__ | &nbsp;
+| Week    | Unit             | Topics
+|---------|------------------|----------------------------------------
+| Week 01 | Introduction     | Student Orientation, Bash, Intro to Ruby
+| Week 02 | Ruby             | Intro to OO, Gems, Pair Programming
+| Week 03 | Ruby             | More OO, Files, Inheritance
+| Week 04 | Ruby             | Enumerables, TDD, Minitest
+| Week 05 | Ruby             | Large Projects, Git
+| Week 06 | HTML & CSS       | Web Design, HTML, CSS Layouts, Tools
+| Week 07 | Ruby on Rails    | HTTP & REST, MVC, Rails Components
+| Week 08 | _BREAK_          | &nbsp;
+| Week 09 | Ruby on Rails    | Model Associations
+| Week 10 | Ruby on Rails    | Unit Testing, Foundation
+| Week 11 | Ruby on Rails    | OAuth, Controller Filters, Advanced ActiveRecord
+| Week 12 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
+| Week 13 | Web APIs         | Consuming APIs
+| Week 14 | Web APIs         | Producing APIs
+| Week 15 | JavaScript       | Intro to JavaScript, the DOM, jQuery, Advanced Developer Tools
+| Week 16 | JavaScript       | jQuery, AJAX, Underscore
+| Week 17 | JavaScript       | Intro to Backbone
+| Week 18 | _INTERVIEWS_     | &nbsp;
+| Week 19 | JavaScript       | Backbone Views
+| Week 20 | JavaScript       | Rails API and Backbone Front-end
+| Week 21 | _BREAK_          | &nbsp;
+ | Week 22 | Capstone Project | &nbsp;
+| Week 23 | Capstone Project | &nbsp;
+| Week 24 | Capstone Project | &nbsp;
+| Week 25 | Capstone Project | Presentations
+| Week 26 | _BREAK_          | &nbsp;
+| Week 27 | __INTERNSHIP BEGINS__ | &nbsp;
