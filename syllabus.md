@@ -98,8 +98,8 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 
 | Week    | Unit             | Topics
 |---------|------------------|----------------------------------------
-| Week 01 | Introduction     | Student Orientation, Bash, uby
-| Week 02 | Ruby             | Intro to OO, Gems, Pair g
+| Week 01 | Introduction     | Student Orientation, Bash, Intro to Ruby
+| Week 02 | Ruby             | Intro to OO, Gems, Pair Programming
 | Week 03 | Ruby             | More OO, Files, Inheritance
 | Week 04 | Ruby             | Enumerables, TDD, Minitest
 | Week 05 | Ruby             | Large Projects, Git
