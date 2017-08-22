@@ -32,7 +32,7 @@ The current schedule for Open Tutoring is:
 (Last updated 8/22/2016 - Check your class Google calendar for temporary schedule changes.)
 
 ### Ad-hoc Tutoring
-Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours. Because you're working individually with your tutor it's also possible to go beyond assistance with a particular project hurlde and get more in-depth on programming concepts.
+Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours. Because you're working individually with your tutor it's also possible to go beyond assistance with a particular project hurdle and get more in-depth on programming concepts.
 
 Ad-hoc Tutoring consists of one-time, individual tutoring sessions arranged through the [ada-tutors mailing list](mailto:ada-tutors@googlegroups.com). The mailing list has many volunteers from the tech industry in Seattle including a number of Adies from previous cohorts.
 
