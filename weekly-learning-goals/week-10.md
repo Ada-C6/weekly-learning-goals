@@ -1,8 +1,19 @@
-# Week 10: Rails III - CSS Frameworks & Automated Testing With MediaRanker
-- Be able to craft automated tests for Rails Models using Minitest assertions.
-- Be able to create test data with relationships using Fixtures.
-- Be able to test renderings, redirections, response codes in Rails Controllers using automated testing.
-- Use Parameters with controller testing utilizing fixture data.
-- Be able to structure the layout of your site using the Foundation CSS framework.
+# Week 10 (Rails week 3)
 
-No weekly assessment - enjoy the takehome over the weekend!
+## Automated Testing, Advanced Controllers and CSS Frameworks With MediaRanker
+
+### Testing in Rails
+- Understand the high-level ideas of testing in Rails
+- Test Rails Models using Minitest specs
+- Create test data with relationships using Fixtures
+- Test renderings, redirections, response codes in Rails Controllers
+- Differentiate between _unit testing_ and _end to end_ testing
+
+### Advanced Controllers
+- Use `session` and `flash` to track user data between requests
+- DRY up controllers using filters
+- Restrict what actions can be taken by which users
+
+### Foundation
+- Understand the problem solved by the Foundation CSS framework
+- Lay out a web page using the Foundation
