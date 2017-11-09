@@ -6,6 +6,8 @@
 - Learn about datatypes and functions in JS
 - Learn how Javascript functions are different than Ruby methods
 - Distinguish between a function expression and a function declaration
+- Distinguish between a normal function and an arrow function
+- Learn how to create a method with default arguments
 - Begin exploring what higher order functions are
 - Examine how objects are created and instantiated
 - See different ways to create and extend objects
