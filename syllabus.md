@@ -98,28 +98,28 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 
 | Week    | Unit             | Topics
 |---------|------------------|----------------------------------------
-| Week 01 | Introduction     | Student Orientation, Bash, Intro to Ruby
-| Week 02 | Ruby             | Intro to OO, Gems, Pair Programming
-| Week 03 | Ruby             | More OO, Files, Inheritance
-| Week 04 | Ruby             | Enumerables, TDD, Minitest
-| Week 05 | Ruby             | Large Projects, Git
-| Week 06 | HTML & CSS       | Web Design, HTML, CSS Layouts, Tools
-| Week 07 | Ruby on Rails    | HTTP & REST, MVC, Rails Components
+| Week 01 | Ruby             | Student Orientation, Intro to Ruby, Intro to Objects
+| Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, Inheritance
+| Week 03 | Ruby             | Pair Programming, Enumerables
+| Week 04 | Ruby             | Object-Oriented Design, More Git
+| Week 05 | HTML & CSS       | Web Design, HTML, CSS
+| Week 06 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
+| Week 07 | Ruby on Rails    | ActiveRecord Models, Deployment
 | Week 08 | _BREAK_          | &nbsp;
-| Week 09 | Ruby on Rails    | Model Associations
-| Week 10 | Ruby on Rails    | Unit Testing, Foundation
-| Week 11 | Ruby on Rails    | OAuth, Controller Filters, Advanced ActiveRecord
-| Week 12 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
-| Week 13 | Web APIs         | Consuming APIs
-| Week 14 | Web APIs         | Producing APIs
-| Week 15 | JavaScript       | Intro to JavaScript, the DOM, jQuery, Advanced Developer Tools
-| Week 16 | JavaScript       | jQuery, AJAX, Underscore
-| Week 17 | JavaScript       | Intro to Backbone
+| Week 09 | Ruby on Rails    | Testing in Rails, CSS Framework
+| Week 10 | Ruby on Rails    | OAuth, Advanced Rails
+| Week 11 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
+| Week 12 | Web APIs         | Consuming APIs
+| Week 13 | Web APIs         | Producing APIs
+| Week 14 | JavaScript       | Intro to JavaScript
+| Week 15 | JavaScript       | JS in the Browser, the DOM, jQuery, AJAX, Templating
+| Week 16 | JavaScript       | Advanced JS, Asynchronicity
+| Week 17 | JavaScript       | Intro to React
 | Week 18 | _INTERVIEWS_     | &nbsp;
-| Week 19 | JavaScript       | Backbone Views
-| Week 20 | JavaScript       | Rails API and Backbone Front-end
+| Week 19 | JavaScript       | React
+| Week 20 | JavaScript       | Rails API and React Front-end
 | Week 21 | _BREAK_          | &nbsp;
- | Week 22 | Capstone Project | &nbsp;
+| Week 22 | Capstone Project | &nbsp;
 | Week 23 | Capstone Project | &nbsp;
 | Week 24 | Capstone Project | &nbsp;
 | Week 25 | Capstone Project | Presentations
