@@ -8,14 +8,21 @@ We focus on teaching skills that are readily transferrable from one technology s
 
 Major topics of study include:
 
-| Writing Software        | Being a Developer
-|-------------------------|-------------------
-| Ruby                    | Leadership & Inclusion
-| HTML & CSS              | Test-Driven Development
-| Ruby on Rails           | Pair Programming
-| Web APIs                | Agile Practices
-| JavaScript              | Networking
-| CS Fundamentals         | Career Readiness
+Writing Software
+- Ruby
+- HTML & CSS
+- Ruby on Rails
+- Web APIs
+- JavaScript
+- CS Fundamentals
+
+Being a Developer
+- Leadership & Inclusion
+- Test-Driven Development
+- Pair Programming
+- Agile Practices
+- Networking
+- Career Readiness
 
 ## Expected Outcomes
 
