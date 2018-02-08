@@ -27,9 +27,9 @@ The current schedule for Open Tutoring is:
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
-|        | 5-6 PM  |           | 5-6:30 PM |       | 11-1 PM  |        |
+|        | 5:30-7:30 PM  |           | 5:30-7:30 PM | 11-2PM      |    |        |
 
-(Last updated 8/23/2016 - Check your class Google calendar for temporary schedule changes.)
+(Last updated 2/8/2018 - Check your class Google calendar for temporary schedule changes.)
 
 ### Ad-hoc Tutoring
 Ad-hoc Tutoring is an ideal option when you feel that more dedicated one-on-one instruction is necessary, or you're unable to attend the Open Tutoring hours. Because you're working individually with your tutor it's also possible to go beyond assistance with a particular project hurdle and get more in-depth on programming concepts.
