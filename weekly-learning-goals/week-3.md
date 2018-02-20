@@ -1,13 +1,15 @@
 # Week 3: Intermediate Ruby
 ## Learning Goals
 
-- More Conditionals
+- Understand and write more kinds of conditionals: ternary conditional, post-fix conditional
 - Collaborate using git push/pull
+  - Understand the `.gitignore` file
+  - Use `git push` and `git pull` and resolve simple merge conflicts
 - Independently write tests
 - Practice test-driven development
 - Practice pair programming
-- More objects and classes
-- More writing and using methods     
+- Practice making objects and classes
+- Practice writing and using methods
 - Reading a Stack Trace/Debugging
-- Recognizing and using Enumerable
-- Exception Handling
+- Recognizing and using Enumerable's built-in methods
+- Understand how and when to handle exceptions
