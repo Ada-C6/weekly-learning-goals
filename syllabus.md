@@ -108,19 +108,19 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 | Week 01 | Ruby             | Student Orientation, Intro to Ruby, Intro to Objects
 | Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, Inheritance
 | Week 03 | Ruby             | Pair Programming, Enumerables
-| Week 04 | Ruby             | Object-Oriented Design, More Git
-| Week 05 | HTML & CSS       | Web Design, HTML, CSS
-| Week 06 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
-| Week 07 | Ruby on Rails    | ActiveRecord Models, Deployment
+| Week 04 | Ruby             | Object-Oriented Programming, Writing Tests
+| Week 05 | Ruby             | Object-Oriented Design, More Git
+| Week 06 | HTML & CSS       | Web Design, HTML, CSS
+| Week 07 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
 | Week 08 | _BREAK_          | &nbsp;
-| Week 09 | Ruby on Rails    | Testing in Rails, CSS Framework
-| Week 10 | Ruby on Rails    | OAuth, Advanced Rails
-| Week 11 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
-| Week 12 | Web APIs         | Consuming APIs
-| Week 13 | Web APIs         | Producing APIs
-| Week 14 | JavaScript       | Intro to JavaScript
-| Week 15 | JavaScript       | JS in the Browser, the DOM, jQuery, AJAX, Templating
-| Week 16 | JavaScript       | Advanced JS, Asynchronicity
+| Week 09 | Ruby on Rails    | ActiveRecord Models, Deployment
+| Week 10 | Ruby on Rails    | Testing in Rails, CSS Framework
+| Week 11 | Ruby on Rails    | OAuth, Advanced Rails
+| Week 12 | Ruby on Rail     | Agile, PM Skills, Working With a Large Team
+| Week 13 | Web APIs         | Consuming APIs
+| Week 14 | Web APIs         | Producing APIs
+| Week 15 | JavaScript       | Intro to JavaScript
+| Week 16 | JavaScript       | JS in the Browser, the DOM, jQuery, AJAX, Asynchronicity
 | Week 17 | JavaScript       | Intro to React
 | Week 18 | _INTERVIEWS_     | &nbsp;
 | Week 19 | JavaScript       | React
