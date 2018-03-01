@@ -1,4 +1,5 @@
 # Week 6: Intro to Web using HTML & CSS
+
 ## Learning Goals
 6.1 Use semantic HTML tags  
 6.2 Use HTML attributes  
