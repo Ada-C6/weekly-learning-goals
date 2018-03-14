@@ -11,4 +11,5 @@
 - Use CSS layout & display properties for appropriate layouts
   - Understand using flexbox for alignment
   - Understand using CSS Grid for layout
+  - Be able to determine where to use Flexbox and where to use Grid for layout
 - Gain exposure to accessibility in web design
