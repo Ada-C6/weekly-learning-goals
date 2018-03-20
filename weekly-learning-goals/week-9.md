@@ -13,7 +13,6 @@
 # Questions & Learning Goals
 | Question | Learning Goal #|
 |:--------:|-------------------
-|	
 |    1      |  7.6 	 |
 |	 2	|	9.3  |		
 |	 3	|	7.6  |		
