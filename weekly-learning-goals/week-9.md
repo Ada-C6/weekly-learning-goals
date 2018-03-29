@@ -5,6 +5,7 @@
 - Use ActiveRecord to define one-to-many and many-to-many relations between models
 - Be able to validate input using the *validations library*  provided by Active Record
 - Discuss the role validations play in data management
+- Write model methods to encapsulate business logic
 
 ### More Rails
 - Learn about using the Rails resources route helpers
