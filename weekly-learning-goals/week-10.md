@@ -6,7 +6,6 @@
 - Understand the high-level ideas of testing in Rails
 - Test Rails Models using Minitest specs
 - Create test data with relationships using Fixtures
-- Test renderings, redirections, response codes in Rails Controllers
 - Differentiate between _unit testing_ and _end to end_ testing
 
 ### Advanced Controllers
@@ -16,4 +15,4 @@
 
 ### Foundation
 - Understand the problem solved by the Foundation CSS framework
-- Lay out a web page using the Foundation
+- Style a web page using the Foundation
