@@ -7,28 +7,6 @@
 6. Understand hoisting and why it matters in JavaScript
 7. Request data from a sever to render client-side using JavaScript
 8. Render data from server without reloading a page
-9. Use jQuery to make AJAX requests
-10. Use GET and POST methods with AJAX
+9. Use axios to make AJAX requests
+10. Use GET and POST methods with axios
 11. Use Underscore templates to generate HTML from JavaScript
-
-## Assessment Question Mapping
-| Question | Goal |
-|:---------|:-----|
-| **JavaScript Fundamentals** | |
-| 1 | 1 |
-| 2 | 5, 6 |
-| **jQuery** | |
-| 3 | 2, 3, 9 |
-| 4 | 2 |
-| 5 | 2 |
-| 6 | 1, 2 |
-| 7 | 2 |
-| 8 | 3 |
-| **AJAX** | |
-| 9 | 7, 8, 9, 10 |
-| 10 | 7, 8, 9, 10 |
-| 11 | 7, 8, 9, 10 |
-| 12 | 7, 8, 9, 10 |
-| **Underscore** | |
-| 13 | 11 |
-| 14 | 11 |
