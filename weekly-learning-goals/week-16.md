@@ -9,4 +9,6 @@
 8. Render data from server without reloading a page
 9. Use axios to make AJAX requests
 10. Use GET and POST methods with axios
-11. Use Underscore templates to generate HTML from JavaScript
+11. Explain what React is and why it is useful
+12. Identify likely parts of a web page to turn into React components
+13. Create React components and pass data into them using props
