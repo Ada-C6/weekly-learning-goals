@@ -1,0 +1,34 @@
+# Week 17: Intro to Backbone
+
+- Underscore Templates
+  - Use Underscore templates to generate HTML in JavaScript
+  - Compare and contrast Underscore templating and ERB
+- Backbone
+  - General
+    - Explain what Backbone provides for you as a developer
+    - Explain the MV\* structure of Backbone
+  - Models
+    - Explain what a Backbone Model is
+    - Define a Backbone Model
+    - Instantiate a Backbone Model
+    - Get and set Model attributes
+    - Set default values for model attributes
+    - Validate model attributes in the browser
+    - Write custom model and controlelr methods
+  - Collections
+    - Explain what a Backbone collection is
+    - Define and instantiate a Backbone Collection
+    - Add models to a collection
+    - Retrieve models from a collection
+    - Iterate through models in a collection
+  - Events
+    - Fluently use event-handling vocabulary
+    - Describe what a Backbone event is
+    - Register a callback function for a Backbone event
+    - List some of the events emitted by collections, including `update` and `sort`
+  - APIs
+    - Use Backbone to retrieve and render data from an API
+    - Use Backbone to send data to an API
+    - Write custom parsers and formatters to match API data and Backbone Models
+    - Handle Backbone API errors in a polite and informative manner
+    

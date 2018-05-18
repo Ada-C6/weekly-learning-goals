@@ -1,15 +1,14 @@
-# Week 2: Intro to Objects
+# Week 2: Inheritance, Composition & Testing
 ## Learning Goals
 3.1 Objects and classes (instantiate/instantiation)  
 3.2 Instance variable vs Local variable  
-3.3 Constructor/Initializer  
-3.4 Instance Methods in Classes
-3.5 Hashes as method parameters  
-3.6 Introductory Git  
-3.7 Gems  
-3.8 Pair Programming  
-3.9 Literals   
-
+3.3 Composition  
+3.4 Inheritance   
+3.5 Keyword arguments  
+3.6 Introductory Git   
+3.7 Gems   
+3.8 Pair Programming 
+3.9 Test-Driven Development  
 
 # Questions & Learning Goals
 | Question | Learning Goal #|
