@@ -1,19 +1,15 @@
-# Week 19: JavaScript Testing, JavaScript and Backbone Reinforcement
-- Reinforce
-  - jQuery
-  - Backbone
-    - Models
-    - Collections
-- Backbone
-  - Views
-    - Create, use and render Backbone Views for a Backbone Model
-    - Create, use and render Backbone Views for a Backbone Collection
-    - Use a Backbone View inside of another Backbone View
-    - Explain how Backbone Views fit into the MV\* pattern 
-  - Events
-    - Add custom events to Backbone Views
-    - Listen to custom events
-    - Trigger custom events
+# Week 19: React Reinforcement
+
+- General
+  - Introduce WebPack
+  - Learn about the component lifecycle
+  - Use component lifecycle methods to execute functionality at the specific times within a component's lifecycle
+
 - Testing
-  - Explain the limitations of testing in JavaScript
-  - Intro to testing in JavaScript using Jasmine
+  - Explain the limitations of testing with React
+  - Intro to testing React applications using Jest
+
+- APIs
+  - Revisit axios syntax
+  - Use axios within component lifecycle methods to load external data from an API
+  - Use axios with events to send data to an external API
