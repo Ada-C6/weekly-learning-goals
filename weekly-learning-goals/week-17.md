@@ -11,3 +11,5 @@
 - Manipulate state data based on form submissions
 - Learn about a specific type of component: Functional Stateless Component
 - Learn about a specific type of component: Container Components with Presentational Components
+- Learn to explain the purpose and mechanics of Snapshot testing
+- Learn how to test user interaction in React
