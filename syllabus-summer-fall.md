@@ -1,5 +1,5 @@
 # Ada Developers Academy Summer/Fall Cohort Schedule
-(Dates for 2018-2019)
+<!-- (Dates for 2018-2019)
 
 | Date    | Week    | Unit             | Topics
 |---------|---------|------------------|----------------------------------------
@@ -29,4 +29,4 @@
 | Jan 14  | Week 24 | Capstone Project | &nbsp;
 | Jan 21  | Week 25 | Capstone Project | Presentations
 | Jan 28  | Week 26 | _BREAK_          | &nbsp;
-| Feb 4   | Week 27 | __INTERNSHIP BEGINS__ | &nbsp;
+| Feb 4   | Week 27 | __INTERNSHIP BEGINS__ | &nbsp; -->
