@@ -4,12 +4,12 @@ This document describes the labels we give some of our homework assignments. The
 Often, we will assign homework in the following or similar structure:
 
 ```
-3. Read about writing pseudocode: https://github.com/Ada-Developers-Academy/ [R]
+3. Read about writing pseudocode: [R] https://github.com/Ada-Developers-Academy/
 ```
 
-The first portion is an explanation of the assignment and its link. The last portion is a label corresponding to our intended learning goal of the reading.
+The first portion is an explanation of the assignment. The second portion is a label corresponding to our intended learning goal of the reading. The third portion is a link to the resource.
 
-The labels map to the following goals:
+The labels in the second portion map to the following goals:
 
 Label | Learning Goal
 :--- | :---
@@ -32,6 +32,8 @@ When an assignment has this label, it serves to add additional context to famili
 Reading with this label usually indicates that it is introducing a new concept and new material. If we are assigning new material as reading homework, it will become immediately relevant, likely the very next day.
 
 At Ada, we tend to only briefly review reading homework with this label.
+
+These are the materials we consider to be the most important to our curriculum. If you read nothing else, read the [N]s.
 
 # Nota Bene
 Not every assignment will have a label; assignments without a label should, by default, be treated as mandatory new material.
