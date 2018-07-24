@@ -22,9 +22,9 @@
   - Operator precedence
   - Defining and using methods
   - Iterating over an array or hash
+  - Creating and using loop tables
   - Evaluating what data structure to use for a given problem
   - Working with nested collections (arrays of hashes, hashes of arrays)
-  - Defining and instantiating classes
-  - Instance methods and constructors
-  - Instance variables and accessor methods
   - Variable scope
+  - Understanding constant variables
+  - Using Ruby's built-in methods for Arrays, Hashes, and Enumerables
