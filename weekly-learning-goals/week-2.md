@@ -1,35 +1,27 @@
-# Week 2: Inheritance, Composition & Testing
+# Week 2: Testing, Pair Programming, Gems, Git & Debugging
 ## Learning Goals
-3.1 Objects and classes (instantiate/instantiation)  
-3.2 Instance variable vs Local variable  
-3.3 Composition  
-3.4 Inheritance   
-3.5 Keyword arguments  
-3.6 Introductory Git   
-3.7 Gems   
-3.8 Pair Programming 
-3.9 Test-Driven Development  
+-   **Testing** 
+  -   Understand and be able to use Minitest spec-style syntax
+  -   Be able to identify edge-cases in testing
+  -   Run tests with the `rake` command.
+  -   Organize testing into multiple files
+  
+- **Gems** 
+  -   Find gems online
+  -   Install global gems via the command line
+  -   Import code via the `require` statement
 
-# Questions & Learning Goals
-| Question | Learning Goal #|
-|:--------:|-------------------
-|     1    | 2.16 |
-|     2    | 2.1, 2.16 |
-|     3    | 2.1, 2.16 |
-|     4    | 2.1, 2.16 |
-|     5    | 2.1, 2.16 |
-|     6    | 3.1, 3.2 |
-|     7    | 3.1, 3.3 |
-|     8    | 3.1, 3.4 |
-|     9    | 3.1, 3.5 |
-|     10   | 3.1, 3.5 |
-|     11   | 2.1, 2.3, 2.6 |
-|     12   | 2.1, 2.3, 2.6 |
-|     13   | 2.6 |
-|     14   | 2.6 |
-|     15   | 2.6 |
-|     16   | 2.6 |
-|     17   | 2.6 |
-|     18   | 2.1, 2.5, 2.6 |
-|     19   | 2.11, 2.17 |
-|     20   | 3.6 |
+-  **Git**
+  -   Use `Git init` to create a new repository
+  -   Use Git to track changes by adding commits
+  -   Use Git to push code to Github and pull content down to a localhost
+  -   Use git to submit work with a pull request
+  
+-   **Pair Programming**
+  -   Explain the concept of pair programming
+  -   Write code with a partner on the same computer alternating as driver & navigator
+  
+-   **Debugging**
+  -   Read and analyze a stack trace
+  -   Understand how to use Pry for debugging Ruby Code
+  -   Understand the scope of variables in Ruby
