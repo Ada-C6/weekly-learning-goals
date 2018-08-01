@@ -1,8 +1,8 @@
 # Week 1: Ruby Fundamentals
 ## Learning Goals
 - **Programming Fundamentals**
-  - Comfort with OSX and Atom
-  - Terminal basics
+  - Comfort with macOS and Atom
+  - Terminal & Command Line basics
   - Running Ruby in the terminal
   - Interacting with Ruby in IRB
 
