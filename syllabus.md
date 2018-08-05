@@ -103,12 +103,14 @@ Students should be able to:
 ## Week-by-Week
 We run our cohorts twice a year starting in February and August. Below is our generic week-by-week schedule. To see each cohort broken down week-by-week with their dates, see the [Summer/Fall Schedule](syllabus-summer-fall.md) and the [Winter/Spring Schedule](syllabus-winter-spring.md).
 
+<!-- BEGIN_SCHEDULE -->
+
 | Week    | Unit             | Topics
 |---------|------------------|----------------------------------------
-| Week 01 | Ruby             | Student Orientation, Intro to Ruby, Enumerables & Data Manipulation
-| Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, 
-| Week 03 | Ruby             | Pair Programming, Intro to Objects, Writing Tests
-| Week 04 | Ruby             | Object-Oriented Programming, Inheritance
+| Week 01 | Ruby             | Student Orientation, Intro to Ruby, Methods, Basic Data Structures, Enumerables
+| Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, Pair Programming
+| Week 03 | Ruby             | Intro to Classes, Exception Handling
+| Week 04 | Ruby             | Object-Oriented Programming, Writing Tests
 | Week 05 | Ruby             | Object-Oriented Design, More Git
 | Week 06 | HTML & CSS       | Web Design, HTML, CSS
 | Week 07 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
@@ -120,11 +122,11 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 | Week 13 | Web APIs         | Consuming APIs
 | Week 14 | Web APIs         | Producing APIs
 | Week 15 | JavaScript       | Intro to JavaScript
-| Week 16 | JavaScript       | JS in the Browser, the DOM, jQuery, AJAX, Asynchronicity
+| Week 16 | JavaScript       | JS in the Browser, jQuery, axios
 | Week 17 | JavaScript       | Intro to React
 | Week 18 | _INTERVIEWS_     | &nbsp;
 | Week 19 | JavaScript       | React
-| Week 20 | JavaScript       | Rails API and React Front-end
+| Week 20 | JavaScript       | Full Stack Web Development
 | Week 21 | _BREAK_          | &nbsp;
 | Week 22 | Capstone Project | &nbsp;
 | Week 23 | Capstone Project | &nbsp;
