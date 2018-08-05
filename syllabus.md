@@ -105,10 +105,10 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 
 | Week    | Unit             | Topics
 |---------|------------------|----------------------------------------
-| Week 01 | Ruby             | Student Orientation, Intro to Ruby, Intro to Objects
-| Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, Inheritance
-| Week 03 | Ruby             | Pair Programming, Enumerables
-| Week 04 | Ruby             | Object-Oriented Programming, Writing Tests
+| Week 01 | Ruby             | Student Orientation, Intro to Ruby, Enumerables & Data Manipulation
+| Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, 
+| Week 03 | Ruby             | Pair Programming, Intro to Objects, Writing Tests
+| Week 04 | Ruby             | Object-Oriented Programming, Inheritance
 | Week 05 | Ruby             | Object-Oriented Design, More Git
 | Week 06 | HTML & CSS       | Web Design, HTML, CSS
 | Week 07 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
