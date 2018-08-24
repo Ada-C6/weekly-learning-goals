@@ -1,15 +1,17 @@
 # Week 3: Intermediate Ruby
 ## Learning Goals
 
-- Understand and write more kinds of conditionals: ternary conditional, post-fix conditional
-- Collaborate using git push/pull
-  - Understand the `.gitignore` file
-  - Use `git push` and `git pull` and resolve simple merge conflicts
-- Independently write tests
-- Practice test-driven development
-- Practice pair programming
-- Practice making objects and classes
-- Practice writing and using methods
-- Reading a Stack Trace/Debugging
-- Recognizing and using Enumerable's built-in methods
-- Understand how and when to handle exceptions
+- Describe the role of classes and objects in Ruby
+- Working with classes:
+  - Defining a class
+  - Creating a constructor
+  - Storing data in instance variables
+  - Building behavior with instance methods
+- Compare and contrast hashes and classes
+- Define object composition
+- Identify different types of composition relationships:
+  - One-to-many
+  - One-to-one
+  - Many-to-many
+- Define and use class methods and variables
+- Use modules to break code into namespaces
