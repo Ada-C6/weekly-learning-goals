@@ -2,18 +2,19 @@
 ## Learning Goals
 
 ### Advanced Models
-- Use ActiveRecord to define one-to-many and many-to-many relations between models
+- Describe relationships between models with ERDs
+- Use ActiveRecord to define one-to-many relations between models
+- Use ActiveRecord to define many-to-many relations between models
 - Be able to validate input using the *validations library*  provided by Active Record
 - Discuss the role validations play in data management
 - Write model methods to encapsulate business logic
 
 ### More Rails
-- Learn about using the Rails resources route helpers
+- Understand how to seed a database in Rails
 - Define nested routes
 - Build UI elements to reflect database relations
 - Guide users to provide better data input
 
 ### Software Engineering, Agile and Project Management
-- Explain the role of a "User Story" in agile software development and implement the practice
-- Learn the value of view helpers in DRYing up ERB code
-- Learn to use Branches in Git to collaborate on a project
+- Explain the role of kanban boards in Agile software development and implement the practice
+- Learn to use branches in Git to collaborate on a project
