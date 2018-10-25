@@ -33,7 +33,7 @@ Ruby is a dynamically typed, interpreted, object-oriented language. In addition 
 Students should be able to:
 
 * Write complex command line programs in Ruby
-* Use object-oriented programming principals to build scalable, maintainable programs
+* Use object-oriented programming principles to build scalable, maintainable programs
 * Read and write files, and process large amounts of data
 * Verify code from the outset using test-driven development
 
