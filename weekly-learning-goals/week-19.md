@@ -1,6 +1,9 @@
 # Week 19: React Reinforcement
 
 - General
+  - Create React components to manage form data
+  - Manipulate state data based on form submissions
+  - Differentiate between container components and presentational components
   - Introduce WebPack
   - Learn about the component lifecycle
   - Use component lifecycle methods to execute functionality at the specific times within a component's lifecycle
@@ -8,6 +11,8 @@
 - Testing
   - Explain the limitations of testing with React
   - Intro to testing React applications using Jest
+  - Explain the purpose and mechanics of Snapshot testing
+  - Learn how to test user interaction in React
 
 - APIs
   - Revisit axios syntax
