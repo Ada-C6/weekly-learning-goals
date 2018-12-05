@@ -7,6 +7,7 @@
   - Introduce WebPack
   - Learn about the component lifecycle
   - Use component lifecycle methods to execute functionality at the specific times within a component's lifecycle
+  - Introduce the spread operator and rest parameters.
 
 - Testing
   - Explain the limitations of testing with React
