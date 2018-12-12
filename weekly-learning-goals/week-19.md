@@ -13,7 +13,6 @@
   - Explain the limitations of testing with React
   - Intro to testing React applications using Jest
   - Explain the purpose and mechanics of Snapshot testing
-  - Learn how to test user interaction in React
 
 - APIs
   - Revisit axios syntax
