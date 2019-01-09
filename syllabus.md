@@ -119,7 +119,7 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 | Week 10 | Ruby on Rails    | ActiveRecord Models, Deployment
 | Week 11 | Ruby on Rails    | Testing in Rails, CSS Framework
 | Week 12 | Ruby on Rails    | OAuth, Advanced Rails
-| Week 13 | Ruby on Rails     | Agile, PM Skills, Working With a Large Team
+| Week 13 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
 | Week 14 | Web APIs         | Producing APIs
 | Week 15 | JavaScript       | Intro to JavaScript
 | Week 16 | JavaScript       | JS in the Browser, jQuery, axios

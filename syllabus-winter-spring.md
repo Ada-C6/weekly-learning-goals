@@ -20,7 +20,7 @@ Apr 01 | Week 09 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
 Apr 08 | Week 10 | Ruby on Rails    | ActiveRecord Models, Deployment
 Apr 15 | Week 11 | Ruby on Rails    | Testing in Rails, CSS Framework
 Apr 22 | Week 12 | Ruby on Rails    | OAuth, Advanced Rails
-Apr 29 | Week 13 | Ruby on Rails     | Agile, PM Skills, Working With a Large Team
+Apr 29 | Week 13 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
 May 06 | Week 14 | Web APIs         | Producing APIs
 May 13 | Week 15 | JavaScript       | Intro to JavaScript
 May 20 | Week 16 | JavaScript       | JS in the Browser, jQuery, axios
