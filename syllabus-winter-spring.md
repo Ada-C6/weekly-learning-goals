@@ -13,14 +13,14 @@ Feb 11 | Week 02 | Ruby             | Intro to Git, Gems, TDD, Files, Pair Progr
 Feb 18 | Week 03 | Ruby             | Intro to Classes, Exception Handling
 Feb 25 | Week 04 | Ruby             | Object-Oriented Programming, Writing Tests
 Mar 04 | Week 05 | Ruby             | Object-Oriented Design, More Git
-Mar 11 | Week 06 | HTML & CSS       | Web Design, HTML, CSS
-Mar 18 | Week 07 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
+Mar 11 | Week 06 | Intro to Web     | Intro to Request/Response Cycle
+Mar 18 | Week 07 | Intro to Web     | Web Design, HTML, CSS
 Mar 25 | Week 08 | _BREAK_          | &nbsp;
-Apr 01 | Week 09 | Ruby on Rails    | ActiveRecord Models, Deployment
-Apr 08 | Week 10 | Ruby on Rails    | Testing in Rails, CSS Framework
-Apr 15 | Week 11 | Ruby on Rails    | OAuth, Advanced Rails
-Apr 22 | Week 12 | Ruby on Rail     | Agile, PM Skills, Working With a Large Team
-Apr 29 | Week 13 | Web APIs         | Consuming APIs
+Apr 01 | Week 09 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
+Apr 08 | Week 10 | Ruby on Rails    | ActiveRecord Models, Deployment
+Apr 15 | Week 11 | Ruby on Rails    | Testing in Rails, CSS Framework
+Apr 22 | Week 12 | Ruby on Rails    | OAuth, Advanced Rails
+Apr 29 | Week 13 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
 May 06 | Week 14 | Web APIs         | Producing APIs
 May 13 | Week 15 | JavaScript       | Intro to JavaScript
 May 20 | Week 16 | JavaScript       | JS in the Browser, jQuery, axios
