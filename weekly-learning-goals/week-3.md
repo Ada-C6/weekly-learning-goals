@@ -15,3 +15,4 @@
   - Many-to-many
 - Define and use class methods and variables
 - Use modules to break code into namespaces
+- Read and process data from a CSV file
