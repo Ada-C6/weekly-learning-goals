@@ -1,13 +1,12 @@
-# Week 5: Object Oriented Design
+# Week 5: Object-Oriented Design
+
 ## Learning Goals
-5.1  Create Regular Expressions to validate strings  
-5.2  Understand how to read and apply code coverage tools like SimpleCov  
-5.3  Assess user stories and develop an Object-Oriented Design to implement the stories  
-5.4  Design an application following Object-Oriented-Design Principles  
 
-
-
-# Questions & Learning Goals
-| Question | Learning Goal #|
-|:--------:|-------------------
-|          |   |
+- Design an application following Object-Oriented design principles
+- Improving and deepening development workflow practices:
+  - Read and understand project requirements given as user stories
+  - Apply testing tools, such as test coverage tools like SimpleCov
+- Begin understanding miscellaneous intermediate programming topics:
+  - Create and use regex to validate strings
+  - Write small and simple bash scripts
+  - Organizing project dependencies with Gemfile
