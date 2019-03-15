@@ -1,14 +1,17 @@
-# Week 11: Rails III - OAuth, PM and Agile Skills
-## Learning Goals
+# Week 11 (Rails week 3)
 
-### Testing in Rails: Controllers
-- Test renderings, redirections, response codes in Rails Controllers
+## Automated Testing, Advanced Controllers and CSS Frameworks With MediaRanker
 
-### OAuth in Rails, Testing with OmniAuth
-- Understand the basic workflow of OAuth, and how it protects users
-- Implement user login/logout using Github as an OAuth provider
-- Use OmniAuth as a mock OAuth provider during testing
+### Testing in Rails
+- Understand the high-level ideas of testing in Rails
+- Test Rails Models using Minitest specs
+- Create test data with relationships using Fixtures
 
-### Software Engineering, Agile and Project Management
-- Understand the role of Agile as a software development methodology
-- Use Agile techniques like daily standups, short sprints and a Kanban board (Trello) to coordinate a large group project
+### Advanced Controllers
+- Use `session` and `flash` to track user data between requests
+- DRY up controllers using filters
+- Restrict what actions can be taken by which users
+
+### Foundation
+- Understand the problem solved by the Foundation CSS framework
+- Style a web page using the Foundation

@@ -1,17 +1,20 @@
-# Week 10 (Rails week 3)
+# Week 10: Rails II - Entity Relationships & Project Management
+## Learning Goals
 
-## Automated Testing, Advanced Controllers and CSS Frameworks With MediaRanker
+### Advanced Models
+- Describe relationships between models with ERDs
+- Use ActiveRecord to define one-to-many relations between models
+- Use ActiveRecord to define many-to-many relations between models
+- Be able to validate input using the *validations library*  provided by Active Record
+- Discuss the role validations play in data management
+- Write model methods to encapsulate business logic
 
-### Testing in Rails
-- Understand the high-level ideas of testing in Rails
-- Test Rails Models using Minitest specs
-- Create test data with relationships using Fixtures
+### More Rails
+- Understand how to seed a database in Rails
+- Define nested routes
+- Build UI elements to reflect database relations
+- Guide users to provide better data input
 
-### Advanced Controllers
-- Use `session` and `flash` to track user data between requests
-- DRY up controllers using filters
-- Restrict what actions can be taken by which users
-
-### Foundation
-- Understand the problem solved by the Foundation CSS framework
-- Style a web page using the Foundation
+### Software Engineering, Agile and Project Management
+- Explain the role of kanban boards in Agile software development and implement the practice
+- Learn to use branches in Git to collaborate on a project

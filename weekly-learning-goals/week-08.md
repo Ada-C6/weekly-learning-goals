@@ -1,4 +1,4 @@
-# Week 6: Intro to Web using HTML & CSS
+# Week 8: Intro to Web using HTML & CSS
 
 ## Learning Goals
 - Understand separation of content (with semantic HTML) vs. presentation (CSS)
