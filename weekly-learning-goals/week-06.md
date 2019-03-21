@@ -7,6 +7,7 @@
     - Differentiate between _websites_ and _APIs_
     - Identify the different parts of an HTTP request and response
     - Differentiate between _queries_ and _commands_
+    - Use the MVC pattern to organize programs
 - Consuming APIs:
     - Experiment with APIs using Postman
     - Consume an API in Ruby using the `HTTParty` gem
