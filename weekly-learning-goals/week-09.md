@@ -12,6 +12,7 @@
 7.10 Create Active Record migrations  
 7.11 Create Active Record models  
 7.12 Debug and develop a Rails application  
+7.13 Write controller test for CRUD actions
 
 
 # Questions & Learning Goals
