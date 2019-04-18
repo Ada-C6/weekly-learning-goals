@@ -3,11 +3,11 @@
 
 ### Advanced Models
 - Describe relationships between models with ERDs
-- Use ActiveRecord to define one-to-many relations between models
-- Use ActiveRecord to define many-to-many relations between models
+- Write model methods to encapsulate business logic
 - Be able to validate input using the *validations library*  provided by Active Record
 - Discuss the role validations play in data management
-- Write model methods to encapsulate business logic
+- Use ActiveRecord to define one-to-many relations between models
+- Use ActiveRecord to define many-to-many relations between models
 
 ### More Rails
 - Understand how to seed a database in Rails
