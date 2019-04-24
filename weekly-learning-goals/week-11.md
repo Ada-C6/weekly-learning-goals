@@ -6,6 +6,7 @@
 - Understand the high-level ideas of testing in Rails
 - Test Rails Models using Minitest specs
 - Create test data with relationships using Fixtures
+- Test user workflows that take multiple request/response cycles
 
 ### Advanced Controllers
 - Use `session` and `flash` to track user data between requests
