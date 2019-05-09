@@ -4,3 +4,4 @@
 1. Identify similarities and differences between web apps and API apps
 1. Use error handling to ensure appropriate behavior in API code
 1. Use an external test suite to ensure an API conforms to a specification
+1. Use TravisCI to enable a continuous integration workflow
