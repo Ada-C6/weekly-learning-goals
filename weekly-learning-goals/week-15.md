@@ -27,3 +27,13 @@
 - Set up your web page to include jQuery
 - See how jQuery syntax is different than plain JS
 - Utilize jQuery selectors to manipulate the DOM
+
+## Comprehension Questions
+
+- What is the syntax for making a variable that can be re-assigned? What is the syntax for making a variable that cannot be re-assigned?
+- What is the syntax for making a function with the functional expression style?
+- What is the syntax for using `forEach` with an anonymous arrow function?
+- What is the syntax for using `map` with an anonymouse arrow function?
+- What is the syntax for writing a unit test in Jest?
+- What is jQuery?
+- What is the syntax for using jQuery to select an element? What is the syntax for using jQuery to change a property on an element?
