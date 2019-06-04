@@ -1,7 +1,7 @@
-# Week 17: Intro to React
+# Week 18: Intro to React
 
-- Continue identifying portions of web sites as React components
-- Continue creating new React applications using `create-react-app`
+- Identify portions of web sites as React components
+- Create new React applications using `create-react-app`
 - Manage file structure using `export` and `import`
 - Build functional stateless React components
 - See the patterns in React for using CSS
