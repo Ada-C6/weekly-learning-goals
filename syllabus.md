@@ -112,8 +112,8 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 | Week 03 | Ruby             | Intro to Classes, Exception Handling, Writing Tests
 | Week 04 | Ruby             | Object-Oriented Programming
 | Week 05 | Ruby             | Object-Oriented Design, More Git
-| Week 06 | Intro to Web     | Intro to Request/Response Cycle
-| Week 07 | Intro to Web     | Web Design, HTML, CSS
+| Week 06 | Intro to Web     | Intro to Request/Response Cycle, Intro to APIs
+| Week 07 | Intro to Web     | Static Web Design, HTML, CSS
 | Week 08 | _BREAK_          | &nbsp;
 | Week 09 | Ruby on Rails    | HTTP & REST, MVC, Intro to Rails
 | Week 10 | Ruby on Rails    | ActiveRecord Models, Deployment
@@ -122,7 +122,7 @@ We run our cohorts twice a year starting in February and August. Below is our ge
 | Week 13 | Ruby on Rails    | Agile, PM Skills, Working With a Large Team
 | Week 14 | Web APIs         | Producing APIs
 | Week 15 | JavaScript       | Intro to JavaScript
-| Week 16 | JavaScript       | JS in the Browser, jQuery, axios
+| Week 16 | JavaScript       | JS in the Browser, axios
 | Week 17 | JavaScript       | Intro to React
 | Week 18 | _INTERVIEWS_     | &nbsp;
 | Week 19 | JavaScript       | React
