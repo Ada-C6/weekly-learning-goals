@@ -4,7 +4,7 @@
 
 Ada Developers Academy teaches full-stack web development, allowing students to choose what specialty of software development they want to pursue in their post-Ada careers. We cover HTML/CSS, JavaScript, Ruby on Rails, and computer science fundamentals. Our [complete curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum/) is online and open-source.
 
-We focus on teaching skills that are readily transferrable from one technology stack to another, making Ada students adaptable and flexible candidates for all types of developer positions. Students have been successfully placed in internships and jobs working in Ruby, Java, JavaScript, C++, C#, Objective-C and Python, among other languages and frameworks.
+We focus on teaching skills that are readily transferable from one technology stack to another, making Ada students adaptable and flexible candidates for all types of developer positions. Students have been successfully placed in internships and jobs working in Ruby, Java, JavaScript, C++, C#, Objective-C and Python, among other languages and frameworks.
 
 Major topics of study include:
 
@@ -69,7 +69,7 @@ Students should be able to:
 
 ### JavaScript
 
-As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as jQuery, Underscore and the Backbone framework.
+As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as jQuery and React.
 
 Students should be able to:
 
